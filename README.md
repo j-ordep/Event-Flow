@@ -39,4 +39,4 @@ A API oferece funcionalidades para gerenciar convites e determinar rankings base
 ## Funcionalidades
 - CRUD completo para eventos e inscrições.
 - Contabilização de convites realizados e aceitos pelos usuários.
-- Documentação da API com Postman.
+- Documentação/testes da API com Postman.
